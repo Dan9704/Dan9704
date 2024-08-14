@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dan Nguyen!
+# 👋 Hi there, I'm Dac Tung Duong Nguyen!
 
 I'm a curious and motivated Computer Science student with a passion for creating impactful software and web applications. Whether it's developing games or building cloud-based systems, I love turning ideas into reality with clean, efficient code.
 
