@@ -25,6 +25,54 @@
 <a href="https://instagram.com/https://www.instagram.com/_tnug_dnoug_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_tnug_dnoug_/" height="30" width="40" /></a>
 </p>
 
+
+
+<p>
+  <a href="" target="_blank">
+    <img 
+      alt="Github" 
+      src="https://img.shields.io/badge/Danny.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" 
+      height="30px" 
+    />
+  </a>
+  <a href="" target="_blank">
+    <img 
+      alt="Twitter" 
+      src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  
+      height="30px" 
+    />
+  </a>
+  <a href="" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  
+      height="30px" 
+    />
+  </a>
+  <a href="" target="_blank">
+    <img 
+      alt="Blog" 
+      src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  
+      height="30px" 
+    />
+  </a>
+  <a href="" target="_blank">
+    <img 
+      alt="Instagram" 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  
+      height="30px" 
+    />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
 <h3 align="left">🛠️ Languages and Tools I use:</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" height="25px"/>
