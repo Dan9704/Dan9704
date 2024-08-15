@@ -9,7 +9,10 @@
 
 - 🌱 I’m currently learning **Kotlin, Python**
 
-- 👨‍💻 All of my projects are available at [https://danny-nguyen-portfolio.vercel.app/](https://danny-nguyen-portfolio.vercel.app/)
+- 🙋‍♂️ All about me is at **[My Website](https://github.com/Dan9704?tab=repositories)**
+
+- 👨‍💻 All of my projects are available at [My Projects](https://danny-nguyen-portfolio.vercel.app/)
+
 
 - 📫 How to reach me **tungduong9704@gmail.com**
 
