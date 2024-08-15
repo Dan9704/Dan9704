@@ -5,7 +5,9 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgxcW13ZHoxcTVkOHJqZnpnZWJkbzQ5bmt0cmk2b2h3M2Q4djVmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Guy" style="width: 400px;">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlvbTVhcThsamsxbmszdXlucTd1MnEwYTA3YmM5NTJhbTJvc3UwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Guy" style="width: 400px;">
+
+
 
 - 🌱 I’m currently learning **Kotlin, Python**
 
