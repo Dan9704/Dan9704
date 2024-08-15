@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dan9704&label=Profile%20views&color=0e75b6&style=flat" alt="Dan9704" /> </p>
 
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgxcW13ZHoxcTVkOHJqZnpnZWJkbzQ5bmt0cmk2b2h3M2Q4djVmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Guy" style="width: 400px;">
+
 
 - 🌱 I’m currently learning **Kotlin, Python**
 
