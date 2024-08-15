@@ -15,51 +15,38 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://danny-nguyen-portfolio.vercel.app/)
 
+- 🖥️ Life Hack: Stay curious :mag_right: and ask questions—every question you ask is a step closer to mastery :sparkles:!
+
 
 - 📫 How to reach me **tungduong9704@gmail.com**
 
-<h3 align="left">❤️ Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dac-tung-duong-nguyen-6aa823194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dac-tung-duong-nguyen-6aa823194/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100041760740329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100041760740329" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_tnug_dnoug_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_tnug_dnoug_/" height="30" width="40" /></a>
-</p>
-
-
-
+<h3 align="left">☎️ Connect with me:</h3>
 <p>
-  <a href="" target="_blank">
+  <a href="https://danny-nguyen-portfolio.vercel.app/" target="_blank">
     <img 
       alt="Github" 
       src="https://img.shields.io/badge/Danny.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" 
       height="30px" 
     />
   </a>
-  <a href="" target="_blank">
-    <img 
-      alt="Twitter" 
-      src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  
-      height="30px" 
-    />
-  </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/dac-tung-duong-nguyen/" target="_blank">
     <img 
       alt="LinkedIn" 
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  
       height="30px" 
     />
   </a>
-  <a href="" target="_blank">
-    <img 
-      alt="Blog" 
-      src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  
-      height="30px" 
-    />
-  </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/_tnug_dnoug_/" target="_blank">
     <img 
       alt="Instagram" 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  
+      height="30px" 
+    />
+  </a>
+   <a href="https://www.facebook.com/profile.php?id=100041760740329" target="_blank">
+    <img 
+      alt="Facebook" 
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  
       height="30px" 
     />
   </a>
