@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Kotlin, Python**
 
-- 🙋‍♂️ All about me is at **[My Website](https://github.com/Dan9704?tab=repositories)**
+- 🙋‍♂️ All about me is at **[My Website](https://danny-nguyen-portfolio.vercel.app/)**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://danny-nguyen-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Dan9704?tab=repositories)
 
 - 🖥️ Life Hack: Stay curious :mag_right: and ask questions—every question you ask is a step closer to mastery :sparkles:!
 
