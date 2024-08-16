@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/Dan9704?tab=repositories)
 
+- ☕ Fun fact: I can make really good coffee and handle around 8kg a day!
+
 - 🖥️ Life Hack: Stay curious :mag_right: and ask questions—every question you ask is a step closer to mastery :sparkles:!
 
 
