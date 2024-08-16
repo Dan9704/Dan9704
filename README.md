@@ -22,13 +22,16 @@
 
 <h3 align="left">☎️ Connect with me:</h3>
 <p>
-  <a href="https://danny-nguyen-portfolio.vercel.app/" target="_blank">
+ <a href="https://danny-nguyen-portfolio.vercel.app/" target="_blank">
     <img 
-      alt="Github" 
-      src="https://img.shields.io/badge/Danny.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" 
+      alt="Website" 
+      src="https://img.shields.io/badge/Danny.tech-32CD32.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" 
       height="30px" 
     />
-  </a>
+</a>
+
+
+
   <a href="https://www.linkedin.com/in/dac-tung-duong-nguyen/" target="_blank">
     <img 
       alt="LinkedIn" 
