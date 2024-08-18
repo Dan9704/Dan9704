@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dan Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Danny Nguyen</h1>
 <h3 align="center">I'm a motivated Computer Science student with a passion for creating impactful software and web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dan9704&label=Profile%20views&color=0e75b6&style=flat" alt="Dan9704" /> </p>
