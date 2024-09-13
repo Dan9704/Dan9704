@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin, Python**
+- 🌱 I’m currently learning **Kotlin, Python, and Java**
 
 - 🙋‍♂️ All about me is at **[My Website](https://danny-nguyen-portfolio.vercel.app/)**
 
