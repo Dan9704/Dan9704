@@ -94,12 +94,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dan9704&" alt="dan9704" /></p>
 
-<a 
-  href="https://github.com/Dan9704/Maples-Cafe-Website" 
-  target="_blank" 
-  rel="noopener noreferrer"
-  style={{ display: "block" }} 
->
+<a href="https://github.com/Dan9704/Maples-Cafe-Website" >
   <img 
     align="center" 
     src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Maples-Cafe-Website&theme=merko" 
