@@ -93,3 +93,20 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan9704&show_icons=true&locale=en" alt="dan9704" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dan9704&" alt="dan9704" /></p>
+
+<a 
+  href="https://github.com/Dan9704/Maples-Cafe-Website" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style={{ display: "block" }} 
+>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Maples-Cafe-Website&theme=merko" 
+    alt="Maples Cafe Website"
+    style={{ width: "100%", height: "auto", cursor: "pointer" }} 
+  />
+</a>
+
+
+
