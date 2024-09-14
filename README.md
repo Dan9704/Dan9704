@@ -138,5 +138,3 @@
     style={{ width: "100%", height: "auto", cursor: "pointer" }}
   />
 </a>
-
-
