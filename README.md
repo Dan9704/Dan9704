@@ -103,69 +103,40 @@
     style={{ width: "100%", height: "auto", cursor: "pointer" }}
   />
 </a> 
+<a href="https://github.com/Dan9704/UFO-Hunters">
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=UFO-Hunters&theme=dracula"
+    alt="UFO Hunters"
+    style={{ width: "100%", height: "auto", cursor: "pointer" }}
+  />
+</a>
 
-          <Col md={4} className="project-card">
-            <a 
-              href="https://github.com/Dan9704/UFO-Hunters" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ display: "block" }}
-            >
-              <img 
-                align="center" 
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=UFO-Hunters&theme=dracula" 
-                alt="UFO Hunters"
-                style={{ width: "100%", height: "auto", cursor: "pointer" }}
-              />
-            </a>
-          </Col>
+<a href="https://github.com/Dan9704/Olympic-Climber-Tracker-Application">
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Olympic-Climber-Tracker-Application&theme=synthwave"
+    alt="Olympic Climber Tracker Application"
+    style={{ width: "100%", height: "auto", cursor: "pointer" }}
+  />
+</a>
 
-          <Col md={4} className="project-card">
-            <a 
-              href="https://github.com/Dan9704/Olympic-Climber-Tracker-Application" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ display: "block" }}
-            >
-              <img 
-                align="center" 
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Olympic-Climber-Tracker-Application&theme=synthwave" 
-                alt="Olympic Climber Tracker Application"
-                style={{ width: "100%", height: "auto", cursor: "pointer" }}
-              />
-            </a>
-          </Col>
+<a href="https://github.com/Dan9704/Advanced-Cloud-Architecture-for-Photo-Album-Application" >
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Advanced-Cloud-Architecture-for-Photo-Album-Application&theme=gruvbox"
+    alt="Advanced Cloud Architecture for Photo Album Application"
+    style={{ width: "100%", height: "auto", cursor: "pointer" }}
+  />
+</a>
 
-          <Col md={4} className="project-card">
-            <a 
-              href="https://github.com/Dan9704/Advanced-Cloud-Architecture-for-Photo-Album-Application" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ display: "block" }}
-            >
-              <img 
-                align="center" 
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Advanced-Cloud-Architecture-for-Photo-Album-Application&theme=gruvbox" 
-                alt="Advanced Cloud Architecture for Photo Album Application"
-                style={{ width: "100%", height: "auto", cursor: "pointer" }}
-              />
-            </a>
-          </Col>
-
-          <Col md={4} className="project-card">
-            <a 
-              href="https://github.com/Dan9704/Riff-Rental-Application" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              style={{ display: "block" }}
-            >
-              <img 
-                align="center" 
-                src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Riff-Rental-Application&theme=radical" 
-                alt="Riff Rental Application"
-                style={{ width: "100%", height: "auto", cursor: "pointer" }}
-              />
-            </a>
-          </Col>
+<a href="https://github.com/Dan9704/Riff-Rental-Application">
+  <img
+    align="center"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dan9704&repo=Riff-Rental-Application&theme=radical"
+    alt="Riff Rental Application"
+    style={{ width: "100%", height: "auto", cursor: "pointer" }}
+  />
+</a>
 
 
