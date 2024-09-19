@@ -30,7 +30,6 @@
 </a>
 
 
-
   <a href="https://www.linkedin.com/in/dac-tung-duong-nguyen/" target="_blank">
     <img 
       alt="LinkedIn" 
