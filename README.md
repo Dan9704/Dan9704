@@ -17,7 +17,6 @@
 
 - 🖥️ Life Hack: Stay curious :mag_right: and ask questions—every question you ask is a step closer to mastery :sparkles:!
 
-
 - 📫 How to reach me **tungduong9704@gmail.com**
 
 <h3 align="left">☎️ Connect with me:</h3>
