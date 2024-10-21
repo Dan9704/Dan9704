@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dan9704&label=Profile%20views&color=0e75b6&style=flat" alt="Dan9704" /> </p>
 
-
-
 ## 👨🏻‍💻 About Me:
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlvbTVhcThsamsxbmszdXlucTd1MnEwYTA3YmM5NTJhbTJvc3UwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Guy" style="width: 400px;">
